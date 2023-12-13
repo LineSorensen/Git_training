@@ -1,4 +1,3 @@
 Q=5
-
 library(RPostgres)
-library(tidyverse)  #Often used in data science.
+library(tidyverse)  #Load many packages, often used in data science.
